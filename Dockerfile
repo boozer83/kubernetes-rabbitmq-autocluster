@@ -1,4 +1,4 @@
-FROM rabbitmq:3.6.9-management
+FROM rabbitmq:3.6.8-management
 
 ENV RABBITMQ_USE_LONGNAME=true \
     AUTOCLUSTER_LOG_LEVEL=debug \
