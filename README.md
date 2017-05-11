@@ -135,5 +135,3 @@ autocluster: Can not communicate with cluster nodes.
 ```
 
 check your erlang.cookie and whether it is defined or not, and data accessible from secret.
- 
-test
